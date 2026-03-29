@@ -1,11 +1,10 @@
-# Hi, I'm Samuel D. Escudero S. 👋
+# Hi, I'm Samuel D. Escudero S. 
 
 🎓 **MSc student in Bioinformatics for Health Sciences** at Universitat Pompeu Fabra, Barcelona  
-🔬 **Biologist** with a background in Genetics & Molecular Biology (University of Panama)
+🔬 **Biologist** with a background in Genetics & Molecular Biology 
 
 I'm interested in applying computational approaches to understand human disease particularly in **neuroscience**, **single-cell transcriptomics**, and **applied genomics**.
 
-Currently working on my master's thesis on single-cell RNA-seq analysis of immune dysregulation in neurodegenerative disease.
 
 ---
 
@@ -13,7 +12,7 @@ Currently working on my master's thesis on single-cell RNA-seq analysis of immun
 
 `Python` · `R` · `Bash` · `Nextflow` · `HTML` · `Git`
 
-**Bioinformatics:** scRNA-seq (Seurat, Scanpy) · Bulk RNA-seq · GWAS workflows · Sequence QC & alignment
+**Bioinformatics:** scRNA-seq (Seurat, Scanpy) · Bulk RNA-seq · GWAS workflows · 
 
 ---
 
