@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Samuel D. Escudero S. 👋
 
-<!--
-**Sam-E18/Sam-E18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **MSc student in Bioinformatics for Health Sciences** at Universitat Pompeu Fabra, Barcelona  
+🔬 **Biologist** with a background in Genetics & Molecular Biology (University of Panama)
 
-Here are some ideas to get you started:
+I'm interested in applying computational approaches to understand human disease particularly in **neuroscience**, **single-cell transcriptomics**, and **applied genomics**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently working on my master's thesis on single-cell RNA-seq analysis of immune dysregulation in neurodegenerative disease.
+
+---
+
+### 🧬 What I work with
+
+`Python` · `R` · `Bash` · `Nextflow` · `HTML` · `Git`
+
+**Bioinformatics:** scRNA-seq (Seurat, Scanpy) · Bulk RNA-seq · GWAS workflows · Sequence QC & alignment
+
+---
+
+### 📫 Get in touch
+
+[![Email](https://img.shields.io/badge/Email-samuel.escu18@gmail.com-red?style=flat-square&logo=gmail&logoColor=white)](mailto:samuel.escu18@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Samuel--Escudero-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-d-escudero-s-97b959136)
+
+---
