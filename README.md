@@ -24,8 +24,8 @@ I'm a bioinformatics researcher with a background in genetics and molecular biol
 ![Nextflow](https://img.shields.io/badge/-Nextflow-0DC09D?style=flat-square&logo=nextflow&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-**Bioinformatics:** Seurat · CellRanger · MAST · CellChat · DESeq2 · PLINK · UMAP/PCA  
-**Wet lab:** DNA/RNA extraction · PCR · Electrophoresis · Sequencing library prep
+**Bioinformatics:** Seurat · Scanpy · MAST · CellChat · DESeq2 · PLINK · UMAP/PCA  
+**Wet lab:** DNA/RNA extraction · PCR · Sequencing library prep
 
 ---
 
